@@ -8,5 +8,3 @@ for i in range(len(digits)):
 
 number += 1
 print(list(map(int, str(number))))
-
-# -----
